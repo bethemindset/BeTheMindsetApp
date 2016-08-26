@@ -87,6 +87,7 @@
                                     <subviews>
                                         <imageView userInteractionEnabled="NO" tag="1" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="THQ-fO-djP">
                                             <rect key="frame" x="0.0" y="0.0" width="600" height="179.5"/>
+                                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                         </imageView>
                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7wf-kd-3Rr">
                                             <rect key="frame" x="0.0" y="124" width="600" height="55"/>
@@ -104,6 +105,8 @@
                                             </constraints>
                                         </view>
                                     </subviews>
+                                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                    <rect key="contentStretch" x="0.0" y="0.0" width="1" height="0.050000000000000003"/>
                                     <constraints>
                                         <constraint firstAttribute="bottom" secondItem="7wf-kd-3Rr" secondAttribute="bottom" id="4Io-pK-lYe"/>
                                         <constraint firstAttribute="trailing" secondItem="7wf-kd-3Rr" secondAttribute="trailing" id="8Vt-Wg-OIz"/>
@@ -114,6 +117,7 @@
                                         <constraint firstItem="THQ-fO-djP" firstAttribute="top" secondItem="qK6-H3-kTO" secondAttribute="top" id="zFa-ch-aUS"/>
                                     </constraints>
                                 </tableViewCellContentView>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                             </tableViewCell>
                         </prototypes>
                         <connections>

@@ -25,7 +25,7 @@ let video2 = Video()
         
         //asign properties
         video2.videoId = "zCyB2DQFdA0"
-        video2.videoTitle = "How successful people think"
+        video2.videoTitle = "How Successful People Think"
         video2.videoDescription = "Dream Big. Set Goals. Take Action."
 
         
@@ -37,7 +37,7 @@ let video3 = Video()
         
         //asign properties
         video3.videoId = "oG-kWW4um0s"
-        video3.videoTitle = "The mindset behind sucess"
+        video3.videoTitle = "The Mindset Behind Sucess"
         video3.videoDescription = "To bring anything into your life, imagine that it's already there"
 
         
@@ -50,7 +50,7 @@ let video4 = Video()
         
         //asign properties
         video4.videoId = "mgmVOuLgFB0"
-        video4.videoTitle = "Why do we fall?"
+        video4.videoTitle = "Why Do We Fall?"
         video4.videoDescription = "If you want something, go get it. Period."
 
         
@@ -76,7 +76,7 @@ let video6 = Video()
         
         //asign properties
         video6.videoId = "lsSC2vx7zFQ"
-        video6.videoTitle = "How bad do you want it?"
+        video6.videoTitle = "How Bad Do You Want It?"
         video6.videoDescription = "When you want to succeed as bad as you want to breathe, then you'll be successful"
 
         
@@ -129,7 +129,45 @@ let video10 = Video()
         
         //Append it into the videos array
         videos.append(video10)
+        
+        
 
+        
+let video11 = Video()
+        
+        //asign properties
+        video11.videoId = "k6_QUhUPrF4"
+        video11.videoTitle = "All the Way"
+        video11.videoDescription = "Isolation is the gift"
+        
+        
+        //Append it into the videos array
+        videos.append(video11)
+        
+        
+let video12 = Video()
+        
+        //asign properties
+        video12.videoId = "YTuElM6T50w"
+        video12.videoTitle = "Be The Hero of Your Own Movie"
+        video12.videoDescription = "What would the hero of your lifes movie do right now?"
+        
+        
+        //Append it into the videos array
+        videos.append(video12)
+
+
+
+let video13 = Video()
+        
+        //asign properties
+        video13.videoId = "R1JBQMXbN2k"
+        video13.videoTitle = "Arnold Schwarzenegger Motivation"
+        video13.videoDescription = "No pain. No gain"
+        
+        
+        //Append it into the videos array
+        videos.append(video13)
 
         
         
